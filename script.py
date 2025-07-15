@@ -7,6 +7,7 @@ def add_numbers(a, b):
   """
   return a + b
 
+# Call the function and print the result.
 num1 = 5
 num2 = 10
 sum_result = add_numbers(num1, num2)
